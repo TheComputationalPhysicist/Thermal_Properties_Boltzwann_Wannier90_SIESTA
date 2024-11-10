@@ -9,7 +9,8 @@ Installation and configuration scripts
 Sample input files
 Documentation for setup and running calculations
 
-Video link
+Youtube Video 
+https://youtu.be/G71sTL4kcms
 
 
 For further reading, see the related publication: https://pubs.rsc.org/en/content/articlelanding/2024/qm/d4qm00345d
